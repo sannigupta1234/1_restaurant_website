@@ -35,7 +35,7 @@ nav a:hover {
 /* ===== HERO ===== */
 .hero {
     height: 80vh;
-    background: url("/hereoImage.jpg") center/cover no-repeat;
+    background: url("images/hereoImage.jpg") center/cover no-repeat;
     color: rgb(244, 235, 55);
     text-align: center;
     padding-top: 180px;
